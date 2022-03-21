@@ -229,7 +229,15 @@ for e in range( num_epochs ):
         train_step( x ,y )
 ```
 
-![alt text](fig/colorize_output.png)
+![alt text](fig/output1.png)
+
+
+
+![alt text](fig/output2.png)
+
+
+
+![alt text](fig/output3.png)
 
 
 ## Otras adiciones
